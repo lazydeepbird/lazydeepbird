@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me deepbird@gmail.com
 
-<!---
-lazydeepbird/lazydeepbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+이거는 뭐지? github.io 와 차이가 있는 레포인가?
